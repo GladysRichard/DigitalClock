@@ -13,7 +13,7 @@ cor2 = "#21c25c" # Green
 
 root=Tk()
 root.title("")
-root.geometry("350x180")
+root.geometry("400x180")
 root.resizable(width=FALSE, height=FALSE)
 root.configure(backgroun=cor1)
 
